@@ -3,5 +3,5 @@ from register import views
 
 
 urlpatterns = [
-    url(r'^consent/',views.consent)
+    url(r'^re/',views.register)
 ]
